@@ -1,4 +1,5 @@
- *Submitted for verification at Etherscan.io on 2020-03-28
+/**
+ *Submitted for verification at BscScan.com on 2021-04-11
 */
 
 pragma solidity ^0.4.23;
@@ -12,8 +13,36 @@ pragma solidity ^0.4.23;
 // Total supply: 500000000
 // Decimals    : 18
 // ----------------------------------------------------------------------------
-
-
+//
+// Token: WEVIRTUAL
+// Sigla: WVL
+// Suprimento: 500 milhões
+//
+// Documento técnico da Wevirtual
+// Uma introdução às especificações técnicas e aos recursos da Wevirtual é uma
+// arquitetura de blockchain descentralizada com foco
+// em segurança e autonomia da empresa.  
+// Este documento descreve a plataforma Wevirtual junto com uma gama de 
+// recursos novos que permitem que indivíduos, empresas e instituições públicas 
+// usem a tecnologia blockchain sem permissão de uma forma privada, confiável, 
+// escalonável e compatível com os regulamentos.  A plataforma Wevirtual foi 
+// projetada para ser rápida, segura e econômica.  A camada de identidade inovadora 
+// da Wevirtual fornece identidade na cadeia, transações centradas em conformidade e 
+// privacidade aprimorada para os usuários, ao mesmo tempo que permite a anonimização 
+// dos participantes da rede.  O protocolo de consenso de duas camadas da Wevirtual 
+// consiste em um blockchain de consenso e uma camada de finalidade para confirmação 
+// rápida de transações. 
+// Nosso design de sharding permite alto rendimento de transações e shards privados 
+// para casos de uso de negócios e dados confidenciais.  
+// A Wevirtual também permite a interoperabilidade e a comunicação entre os shards 
+// e outras cadeias de blocos.  
+// Wevirtual tem um núcleo de contrato inteligente baseado em padrões com suporte a 
+// vários idiomas.  
+// A plataforma Wevirtual também apresenta uma estrutura de incentivos transparente 
+// com transações econômicas e taxas previsíveis.
+//
+// https://wevirtual.com.br
+//
 // ----------------------------------------------------------------------------
 // Safe maths
 // ----------------------------------------------------------------------------
